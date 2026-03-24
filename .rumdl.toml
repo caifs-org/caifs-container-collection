@@ -1,3 +1,4 @@
 [MD013]
 line_length = 120
 reflow = true
+code_blocks = false

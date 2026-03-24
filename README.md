@@ -34,4 +34,3 @@ RUN caifs add gosu su-exec tini cleanup
 
 > [!TIP]
 > All can be installed and configured via `caifs add <name of target>`
-
